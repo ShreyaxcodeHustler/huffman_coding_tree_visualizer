@@ -1,5 +1,5 @@
 # huffman_coding_tree_visualizer
-# Huffman Coding GUI Application
+
 
 A graphical user interface application that implements Huffman coding for text compression and decompression. This project demonstrates the implementation of the Huffman coding algorithm with a user-friendly interface.
 
